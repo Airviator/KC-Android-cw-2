@@ -1,0 +1,26 @@
+public class Main
+{
+	public static void main(String[] args) {
+	
+		//1st exercise
+		
+		String name = "Hamad";
+		
+		int age = 16;
+		
+		System.out.println(" Hi, my name is " + name + " and i am " + age + " years old ");
+		
+		//2nd exercise
+		
+		int height = 160;
+		
+		if (height >= 160){
+		    System.out.println("you may enter");}
+		
+		else if (height < 160){
+		    System.out.println("get lost kid");}
+		
+		
+		
+	}
+}
